@@ -1,0 +1,29 @@
+HELLOBYE
+
+version 1.0 -- january 2022
+
+CONTENT
+hello
+bye
+hellobye.sh
+
+
+ABOUT
+Hellobye is hello and bye. No one of them is somewhat useful, but they are
+both well documented.
+Run
+$ hello
+if you are happy. Run
+$ bye
+if you don't. Run
+$ hellobye.sh
+if you're not set about this.
+
+
+KNOWN BUGS
+None yet. Report to fralaz1971@gmail.com .
+
+
+REFERENCES
+See http://mij.oltrelinux.com/devel/autoconf-automake/ .
+
