@@ -14,12 +14,19 @@ environments like MS Windows, WINE, ReactOS, FreeDOS, MS Win msys2, MinGW, ...
 (the same to bye.exe on Win-like).
 It also contain hellobye.sh that uses both the produced executables.
 ## How to use the examples
-### to compile
+### to compile on _unix-like_
 make
-### to install
+### to install on _unix-like_
 	./configure --prefix=$HOME/Software/hellobye
 	make
 	make install
+#
+### to compile on _MSwin-like_
+make
+### to install on _MSwin-like_
+	./configure --prefix=$HOME/Software/hellobye
+	mingw32-make
+	mingw32-make install
 #
 an alternative installation procedure is to run
 ./setup.sh
@@ -37,5 +44,7 @@ As first exercise this can be done editing every file interactively.
 1. Add explanations on how to change the occurrence of template names with 1 script.
 2. Add script example hellobye.bat in cmd batch language
 3. Implement the installation script for MSwin-like and FreeDOS setup.bat
-4. TBC
+4. Add installation instruction to compiler with MSVC c compiler
+5. Add installation instruction to compile with WATCOM c compiler
+6. TBC
 
