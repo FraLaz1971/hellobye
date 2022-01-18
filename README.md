@@ -4,8 +4,8 @@
 This project contains 2 programs hello.c and bye.c 
 that will compile in 2 different executables.
 It uses the automake build system, that is mostly
-automated, as drawback, the produced makefiles
-cannot be modified easily by hand from a developer/system manager.
+automated. As drawback, the produced makefiles
+cannot be modified easily by hand from a developer/system-manager.
 The program hello.c will compile on an executable file 
 named hello in unix-like OS / environments like
 GNU/Linux, Darwin/MacOS, BSD, UNIX, android, ... (the same for bye.c)
