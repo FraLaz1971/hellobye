@@ -20,6 +20,13 @@ make
 	./configure --prefix=$HOME/Software/hellobye
 	make
 	make install
+#
+an alternative installation procedure is to run
+./setup.sh
+for unix-like environments
+or to run
+./setupwin.sh
+for MSwin-like environments (and FreeDOS).
 ## How to customize
 The project can be customized for a project you need.
 You can change every occurence of the names bye, hello and hellobye
