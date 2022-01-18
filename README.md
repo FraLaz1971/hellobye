@@ -9,10 +9,9 @@ automated. As drawback, the produced makefiles
 cannot be modified easily by hand from a developer/system-manager.
 The program hello.c will compile on an executable file 
 named hello in unix-like OS / environments like
-GNU/Linux, Darwin/MacOS, BSD, UNIX, android, ... (the same for bye.c)
-and to hello.exe and bye.exe in Microsoft Win / MS-DOS - like
-environments like MS Windows, WINE, ReactOS, FreeDOS, MS Win msys2, MinGW, ...
-(the same to bye.exe on Win-like).
+GNU/Linux, Darwin/MacOS, BSD, UNIX, android, ... 
+and to hello.exe and the same for bye.c to bye.exe in Microsoft Win / MS-DOS - like
+environments like MS Windows, WINE, ReactOS, FreeDOS, MS Win msys2, MinGW, ... .
 It also contain hellobye.sh, a [POSIX](https://en.wikipedia.org/wiki/POSIX) shell script
 that uses both the produced executables.
 ## How to use the examples
