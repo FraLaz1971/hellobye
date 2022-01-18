@@ -22,7 +22,7 @@ make
 	make install
 #
 ### to compile on _MSwin-like_
-make
+	mingw32-make
 ### to install on _MSwin-like_
 	./configure --prefix=$HOME/Software/hellobye
 	mingw32-make
