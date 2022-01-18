@@ -45,7 +45,7 @@ As first exercise this can be done editing every file interactively.
 1. Add explanations on how to change the occurrence of template names with 1 script.
 2. Add script example hellobye.bat in cmd batch language
 3. Implement the installation script for MSwin-like and FreeDOS setup.bat
-4. Add installation instruction to compiler with MSVC c compiler
-5. Add installation instruction to compile with WATCOM c compiler
+4. Adapt the project to be used with the MSVC c compiler
+5. Adapt the project to be used with the WATCOM c compiler
 6. TBC
 
