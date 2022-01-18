@@ -1,0 +1,62 @@
+hello.o: hello.c c:/MinGW/i686-w64-mingw32/include/stdio.h \
+ c:/MinGW/i686-w64-mingw32/include/crtdefs.h \
+ c:/MinGW/i686-w64-mingw32/include/_mingw.h \
+ c:/MinGW/i686-w64-mingw32/include/_mingw_mac.h \
+ c:/MinGW/i686-w64-mingw32/include/_mingw_secapi.h \
+ c:/MinGW/i686-w64-mingw32/include/vadefs.h \
+ c:/MinGW/i686-w64-mingw32/include/sdks/_mingw_directx.h \
+ c:/MinGW/i686-w64-mingw32/include/sdks/_mingw_ddk.h \
+ c:/MinGW/i686-w64-mingw32/include/_mingw_print_push.h \
+ c:/MinGW/i686-w64-mingw32/include/_mingw_off_t.h \
+ c:/MinGW/i686-w64-mingw32/include/swprintf.inl \
+ c:/MinGW/i686-w64-mingw32/include/sec_api/stdio_s.h \
+ c:/MinGW/i686-w64-mingw32/include/_mingw_print_pop.h \
+ c:/MinGW/i686-w64-mingw32/include/stdlib.h \
+ c:/MinGW/lib/gcc/i686-w64-mingw32/4.8.2/include-fixed/limits.h \
+ c:/MinGW/lib/gcc/i686-w64-mingw32/4.8.2/include-fixed/syslimits.h \
+ c:/MinGW/i686-w64-mingw32/include/limits.h \
+ c:/MinGW/i686-w64-mingw32/include/sec_api/stdlib_s.h \
+ c:/MinGW/i686-w64-mingw32/include/malloc.h \
+ c:/MinGW/i686-w64-mingw32/include/math.h hello.h
+
+c:/MinGW/i686-w64-mingw32/include/stdio.h:
+
+c:/MinGW/i686-w64-mingw32/include/crtdefs.h:
+
+c:/MinGW/i686-w64-mingw32/include/_mingw.h:
+
+c:/MinGW/i686-w64-mingw32/include/_mingw_mac.h:
+
+c:/MinGW/i686-w64-mingw32/include/_mingw_secapi.h:
+
+c:/MinGW/i686-w64-mingw32/include/vadefs.h:
+
+c:/MinGW/i686-w64-mingw32/include/sdks/_mingw_directx.h:
+
+c:/MinGW/i686-w64-mingw32/include/sdks/_mingw_ddk.h:
+
+c:/MinGW/i686-w64-mingw32/include/_mingw_print_push.h:
+
+c:/MinGW/i686-w64-mingw32/include/_mingw_off_t.h:
+
+c:/MinGW/i686-w64-mingw32/include/swprintf.inl:
+
+c:/MinGW/i686-w64-mingw32/include/sec_api/stdio_s.h:
+
+c:/MinGW/i686-w64-mingw32/include/_mingw_print_pop.h:
+
+c:/MinGW/i686-w64-mingw32/include/stdlib.h:
+
+c:/MinGW/lib/gcc/i686-w64-mingw32/4.8.2/include-fixed/limits.h:
+
+c:/MinGW/lib/gcc/i686-w64-mingw32/4.8.2/include-fixed/syslimits.h:
+
+c:/MinGW/i686-w64-mingw32/include/limits.h:
+
+c:/MinGW/i686-w64-mingw32/include/sec_api/stdlib_s.h:
+
+c:/MinGW/i686-w64-mingw32/include/malloc.h:
+
+c:/MinGW/i686-w64-mingw32/include/math.h:
+
+hello.h:

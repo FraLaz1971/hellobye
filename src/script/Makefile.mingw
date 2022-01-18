@@ -1,3 +1,2 @@
 AUTOMAKE_OPTIONS = foreign
-MAKE = mingw32-make
 SUBDIRS = src doc man script
