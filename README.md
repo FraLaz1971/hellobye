@@ -1,4 +1,4 @@
-# Automake c project
+# Automake [c](https://en.wikipedia.org/wiki/C_(programming_language) project
 ### a template to be customized
 ## Introduction
 This project contains 2 programs hello.c and bye.c 
