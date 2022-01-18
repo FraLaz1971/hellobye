@@ -1,4 +1,4 @@
-# Automake project
+# Automake c project
 ### a template to be customized
 ## Introduction
 This project contains 2 programs hello.c and bye.c 
@@ -12,7 +12,8 @@ GNU/Linux, Darwin/MacOS, BSD, UNIX, android, ... (the same for bye.c)
 and to hello.exe and bye.exe in Microsoft Win / MS-DOS - like
 environments like MS Windows, WINE, ReactOS, FreeDOS, MS Win msys2, MinGW, ...
 (the same to bye.exe on Win-like).
-It also contain hellobye.sh that uses both the produced executables.
+It also contain hellobye.sh, a [POSIX](https://en.wikipedia.org/wiki/POSIX) shell script
+that uses both the produced executables.
 ## How to use the examples
 ### to compile on _unix-like_
 make
