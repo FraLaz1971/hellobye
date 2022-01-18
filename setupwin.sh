@@ -9,3 +9,4 @@ mingw32-make -f Makefile.mingw -i
 mingw32-make -f Makefile.mingw -i install
 echo 'export PATH=$PATH:$HOME/Software/hellobye/bin' >> $HOME/.bashrc
 echo 'export PATH=$PATH:$HOME/Software/hellobye/bin' >> $HOME/.bash_profile
+mingw32-make -f Makefile.mingw distclean
