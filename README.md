@@ -1,8 +1,8 @@
-# Automake [c](https://en.wikipedia.org/wiki/C_(programming_language) project
+# Automake project
 ### a template to be customized
 ## Introduction
-This project contains 2 programs hello.c and bye.c 
-that will compile in 2 different executables.
+This project contains 2 [c](https://en.wikipedia.org/wiki/C_(programming_language)
+programs hello.c and bye.c that will compile in 2 different executables.
 It uses the automake build system, that is mostly
 automated. As drawback, the produced makefiles
 cannot be modified easily by hand from a developer/system-manager.
